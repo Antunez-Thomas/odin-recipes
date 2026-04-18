@@ -1,2 +1,2 @@
-hiiii this is my first porject in odin 
+hiiii this is my first project in odin 
 
